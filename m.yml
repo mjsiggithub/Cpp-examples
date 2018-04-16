@@ -1,1 +1,4 @@
-tt
+component_depth: 1
+languages:
+- java
+- c
