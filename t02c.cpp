@@ -12,6 +12,7 @@ sum(int x, int y);
 main()
 {
     int a,b,c1,c2,dasdasdasdasd;
+    float d;
     a = getchar();
 /* TODO: test the analyser */
 /* TODO: test the analyser */
@@ -30,6 +31,7 @@ main()
 
 
     b = 13;
+    d = b*4.3
 printf("\n");
     printf("%d\n",sum(a-'0',b));
    /* putchar(a);    */
